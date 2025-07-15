@@ -1,20 +1,40 @@
 {
-  "version_code": 85,
-  "title_update": "التحديث متاح",
-  "title_made_by": "الزعيم واحد من الناس",
-  "title_color": "#FF0000",
-  "description": [
-    "تحسين الأداء والسرعة",
-    "ميزات أمان محسّنة",
-    "تصميم واجهة مستخدم جديدة"
-  ],
-  "notes": [
-    "أحدث تحسينات الأداء",
-    "نظرة عامة على تحسينات الأمان",
-    "دليل تصميم واجهة المستخدم الجديدة",
-    "تحديث الأسئلة الشائعة والدعم"
-  ],
-  "telegram_link": "https://t.me/APKFM",
-  "update_link": "https://whatsapp.com/channel/0029Va7q1tQ9xVJicnLq5I2u",
-  "dialog_exit_on_false": true
+  "com.update": {
+    "latestVersionCode": 14701731,
+    "latestVersion": "14.7.0",
+    "url": "https://play.google.com/store/apps/details?id=com.example.app1",
+    "forceUpdate": true,
+    "style": 3,
+    "dateSystem": true,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
+  },
+  "com.imaginstudio.imagetools.pixellab": {
+    "latestVersionCode": 10,
+    "latestVersion": "1.2.0",
+    "url": "https://play.google.com/store/apps/details?id=com.example.app2",
+    "forceUpdate": true,
+    "style": 3,
+    "dateSystem": true,
+    "expiryDate": "July-11-2025",
+    "dialogTexts": {
+      "title": "NEW UPDATE AVAILABLE",
+      "message": "To continue using the app, you must update to the latest version.",
+      "updateButton": "UPDATE NOW",
+      "laterButton": "LATER"
+    },
+    "dialogStyle3": {
+      "imageWidth": 160,
+      "imageHeight": 160
+    }
+  }
 }
