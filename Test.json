@@ -23,7 +23,7 @@
     "latestVersion": "56.2.0",
     "url": "https://t.me/APKFM",
     "forceUpdate": true,
-    "style": 4,
+    "style": 1,
     "dateSystem": true,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
@@ -32,7 +32,7 @@
       "updateButton": "UPDATE NOW",
       "laterButton": "LATER"
     },
-    "dialogStyle4": {
+    "dialogStyle1": {
       "imageWidth": 160,
       "imageHeight": 160
     }
