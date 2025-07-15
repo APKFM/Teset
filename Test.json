@@ -9,7 +9,7 @@
     "expiryDate": "July-11-2025",
     "dialogTexts": {
       "title": "NEW UPDATE AVAILABLE",
-      "message": "To continue using the app, you must update to the latest version.",
+      "message": "لمواصلة استخدام التطبيق، يجب عليك التحديث إلى الإصدار الأحدث.",
       "updateButton": "UPDATE NOW",
       "laterButton": "LATER"
     },
@@ -27,7 +27,7 @@
     "dateSystem": true,
     "expiryDate": "July-11-2025",
     "dialogTexts": {
-      "title": "NEW UPDATE AVAILABLE",
+      "title": "تحديث جديد متاح",
       "message": "To continue using the app, you must update to the latest version.",
       "updateButton": "UPDATE NOW",
       "laterButton": "LATER"
