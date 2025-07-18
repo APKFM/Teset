@@ -1,7 +1,7 @@
 {
-  "latestVersion": 5665443789987,
-  "updateUrl1": "https://example.com/update1.apk",
-  "updateUrl2": "https://example.com/update2.apk",
-  "telegramUrl": "https://t.me/YourChannel",
-  "newFeatures": "• تحسين الأداء\n• إصلاح الأخطاء\n• واجهة مستخدم جديدة"
+  "latest_version": 43577899992,
+  "changelog": "إصلاحات أخطاء\nميزات جديدة\nتحسين الأداء",
+  "update_url1": "https://example.com/update1.apk",
+  "update_url2": "https://example.com/update2.apk",
+  "telegram_url": "https://t.me/your_channel"
 }
