@@ -1,4 +1,7 @@
 {
-    "latest_version": 9999999,
-    "download_url": "https://yourappdownlod.link"
+  "latestVersion": 5,
+  "updateUrl1": "https://example.com/update1.apk",
+  "updateUrl2": "https://example.com/update2.apk",
+  "telegramUrl": "https://t.me/YourChannel",
+  "newFeatures": "• تحسين الأداء\n• إصلاح الأخطاء\n• واجهة مستخدم جديدة"
 }
